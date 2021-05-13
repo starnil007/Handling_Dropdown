@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9230" started-at="2021-05-13T19:24:41Z" finished-at="2021-05-13T19:24:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9230" started-at="2021-05-13T19:24:41Z" finished-at="2021-05-13T19:24:51Z">
+      <class name="handling_Dropdown_Test.Handling_Dropdown_Test1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:handling_Dropdown_Test.Handling_Dropdown_Test1@3f49dace]" name="setUp" is-config="true" duration-ms="7581" started-at="2021-05-14T00:54:41Z" finished-at="2021-05-14T00:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dynamicMonthSelection()[pri:0, instance:handling_Dropdown_Test.Handling_Dropdown_Test1@3f49dace]" name="dynamicMonthSelection" duration-ms="1468" started-at="2021-05-14T00:54:49Z" finished-at="2021-05-14T00:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicMonthSelection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:handling_Dropdown_Test.Handling_Dropdown_Test1@3f49dace]" name="tearDown" is-config="true" duration-ms="156" started-at="2021-05-14T00:54:50Z" finished-at="2021-05-14T00:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- handling_Dropdown_Test.Handling_Dropdown_Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
