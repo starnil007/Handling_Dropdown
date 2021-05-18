@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.711">
+           time="2.570">
   <properties />
   
   
-            <testcase name="dynamicMonthSelection" time="1.711" classname="handling_Dropdown_Test.Handling_Dropdown_Test1" />
+            <testcase name="dynamicMonthSelection" time="2.570" classname="handling_Dropdown_Test.Handling_Dropdown_Test1" />
       
 </testsuite>
